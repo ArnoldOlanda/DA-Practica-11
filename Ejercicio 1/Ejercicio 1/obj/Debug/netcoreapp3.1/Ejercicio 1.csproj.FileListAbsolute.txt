@@ -1,0 +1,93 @@
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.StaticWebAssets.xml
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.exe
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.deps.json
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.runtimeconfig.json
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.runtimeconfig.dev.json
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.pdb
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.Views.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.Views.pdb
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.csproj.AssemblyReference.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.AssemblyInfoInputs.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.AssemblyInfo.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.MvcApplicationPartsAssemblyInfo.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.MvcApplicationPartsAssemblyInfo.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.RazorAssemblyInfo.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.RazorAssemblyInfo.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\staticwebassets\Ejercicio 1.StaticWebAssets.Manifest.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\staticwebassets\Ejercicio 1.StaticWebAssets.xml
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Ejercicio 1.styles.css
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.TagHelpers.input.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.TagHelpers.output.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.RazorCoreGenerate.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.RazorTargetAssemblyInfo.cache
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.RazorTargetAssemblyInfo.cs
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.Views.pdb
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.csproj.CopyComplete
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.dll
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.pdb
+D:\(a)-Trabajos Universidad\6to Semestre\Desarrollo App\Practicas\Practica 11\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.genruntimeconfig.cache
