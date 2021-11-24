@@ -58,11 +58,11 @@ namespace exp2
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "406218746476-tho8rulgh9r9bti76hlo4c4dm4m2qpkb.apps.googleusercontent.com",
+                ClientSecret = "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"
+            });
         }
     }
 }
